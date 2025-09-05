@@ -3,7 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
 ## 🚀 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Back-End+Developer;Laravel+%7C+Next.js+%7C+Web3;Founder+of+Novatra+Labs;Always+learning+new+things)](https://git.io/typing-svg)
+<img align="right" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+- 💻 19 y/o Back-End Developer  
+- 🔗 Exploring Web3 & Blockchain  
+- ⚡ Building Novatra Labs  
+- 📚 Always Learning New Things  
 
 ---
 
