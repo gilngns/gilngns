@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Gilang
 
-<!--
-**gilngns/gilngns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **Laravel & Web3**
+- 💼 Founder of **Novatra Labs**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/USERNAME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ GitHub Stats
+![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+## 🐍 Contribution Snake
+![GitHub Snake Light](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
