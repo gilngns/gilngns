@@ -3,10 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
 ## 🚀 About Me
-- 💻 Back-End Developer (Laravel, Web3, Solidity)
-- 🌱 Passionate about learning and building projects
-- 💼 Founder of **Novatra Labs**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/gilngns)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Back-End+Developer;Laravel+%7C+Next.js+%7C+Web3;Founder+of+Novatra+Labs;Always+learning+new+things)](https://git.io/typing-svg)
 
 ---
 
@@ -19,6 +16,7 @@
 
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
